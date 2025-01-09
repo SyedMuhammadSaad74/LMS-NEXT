@@ -1,0 +1,9 @@
+{
+  "/page": "app/page.js",
+  "/signin/page": "app/signin/page.js",
+  "/api/course/route": "app/api/course/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/user/route": "app/api/user/route.js",
+  "/api/batch/route": "app/api/batch/route.js"
+}

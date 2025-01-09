@@ -1,0 +1,39 @@
+{
+  "node": {
+    "0079ad63082e4e4016f5b17d953a3a10c95296aa2a": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/components/Header/Header.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "0032595a880cca00c8b9857b5989f73cab7bf3338c": {
+      "workers": {
+        "app/signin/page": {
+          "moduleId": "[project]/.next-internal/server/app/signin/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/signin/page.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/signin/page": "rsc"
+      }
+    },
+    "40d3a48a6c1cecd4ebcc5cdaf2fe8e2a0d4eecbff4": {
+      "workers": {
+        "app/signin/page": {
+          "moduleId": "[project]/.next-internal/server/app/signin/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/signin/page.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/signin/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "XVTtu0y1poHr62QYgY1ZMdRZVEBpFSPecly4htsKvHA="
+}
